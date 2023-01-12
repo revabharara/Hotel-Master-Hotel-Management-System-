@@ -34,7 +34,7 @@ Follow the given series of steps to set up and run the project on your computer.
 2. Once downloaded, open the code and download all the required python libraries using "pip install" and set up the connection with the database.
 
 * To set up the connection with the database make sure you have MySql downloaded and set up in your computer otherwise the project will not work.
-* Then import the .sql database from the repository into your DBMS and set up the connection.
+* Then import the hotel_management database.sql database from the repository into your DBMS and set up the connection.
 * In the last lines of the code under the main section make sure you configure the localhost, user, passwd and database variables in the connection variable according to your pc.
 
 3. Some sample values have been inserted in the database for test purposes, you can continue with them or delete them as per your needs
